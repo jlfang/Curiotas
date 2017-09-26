@@ -1,2 +1,2 @@
 # Curiotas
-# This file is designed to upload practice Project of mine.
+# This repository is designed to upload practice Project of mine.
