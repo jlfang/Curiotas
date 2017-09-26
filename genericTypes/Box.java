@@ -17,9 +17,10 @@ public class Box<T> {
 	    Box<String> stringBox = new Box<String>();
 	 
 	    integerBox.add(new Integer(10));
-	    stringBox.add(new String("菜鸟教程"));
+	    stringBox.add(new String("鑿滈笩鏁欑▼"));
 	 
-	    System.out.printf("整型值为 :%d\n\n", integerBox.get());
-	    System.out.printf("字符串为 :%s\n", stringBox.get());
+	    System.out.printf("鏁村瀷鍊间负 :%d\n\n", integerBox.get());
+	    System.out.printf("瀛楃涓蹭负 :%s\n", stringBox.get());
+	    System.out.println("End of the Generic Practice");
 	  }
 	}
